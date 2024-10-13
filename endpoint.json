@@ -3,5 +3,6 @@
   "ExecVersion": "3.1.1",
   "ChangeLog": "idk",
   "GlassGoshiNoKimiwoOgamu--": "True",
-  "KeyJson": "https://raw.githubusercontent.com/capped-uwu/gckeysys/refs/heads/main/KeyJson.json"
+  "KeyJson": "https://raw.githubusercontent.com/capped-uwu/gckeysys/refs/heads/main/KeyJson.json",
+  "SupportedClientVersion": "version-eadc3c90bb1a4267"
 }
