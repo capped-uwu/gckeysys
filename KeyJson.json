@@ -1,12 +1,12 @@
 {
   "key-2r6aaZzE52a8": {
     "CreatedDate": "1728823652",
-    "Lifetime": "True",
+    "Lifetime": true,
     "Activate": "604800"
   },
   "key-Cv6Wa79VWpqc": {
     "CreatedDate": "1728823652",
-    "Lifetime": "False",
+    "Lifetime": false,
     "Activate": "604800"
   }
 }
