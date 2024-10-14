@@ -2,11 +2,13 @@
   "key-2r6aaZzE52a8": {
     "CreatedDate": "1728823652",
     "Lifetime": true,
-    "Activate": "604800"
+    "Activate": "604800",
+    "KeyUseInfo": "https://discord.com/api/webhooks/1295190694595399751/o-VCXX_ZUYqdkKjuUZi3WNeXq_2lMs_7udJZ4oElBhpDWxbRNaFHWQzEzWzH9L2zU7nT"
   },
   "key-Cv6Wa79VWpqc": {
     "CreatedDate": "1728823652",
     "Lifetime": false,
-    "Activate": "604800"
+    "Activate": "604800",
+    "KeyUseInfo": "https://discord.com/api/webhooks/1295190867312640041/YAfxk7FRs2AsdiTUtbsYqlcqShnzfTffwlzDlzwrUeWCIEEmq8LvPXcNGwL61LhvfBwx"
   }
 }
